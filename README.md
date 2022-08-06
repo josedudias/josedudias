@@ -34,10 +34,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/josedudias/josedudias/blob/output/snake.svg" alt="Snake animation" />
-
-###
-Profile Readme Generator
