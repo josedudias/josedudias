@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/5QzP.gif"  />
+<img align="right" height="150" src="https://c.tenor.com/NKt0KMkGEu4AAAAM/spongebob-windows.gif"  />
 
 ###
 
