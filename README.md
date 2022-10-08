@@ -22,6 +22,7 @@
 </div>
 
 ###
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=4fb11047a365&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/josedudias/" target="_blank">
